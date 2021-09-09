@@ -1,5 +1,11 @@
 # Word-Counting-with-Linked-List
 
+## About Project
+In this project, the number of words and symbols in the given text is determined and the words and repetition numbers are kept in a linked list. The sorting process is done not after all the words, but when each new word is added.
+
+## What is Linked List?
+A linked list is a sequence of data structures, which are connected together via links. Linked List is a sequence of links which contains items. Each link contains a connection to another link.
+
 ## Example Input 
 C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions. It has found lasting use in applications previously coded in assembly language. Such applications include operating systems and various application software for computer architectures that range from supercomputers to PLCs and embedded systems.
 
